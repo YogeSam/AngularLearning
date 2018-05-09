@@ -1,1 +1,1 @@
-# AngularLearning
+This is a simple example of a controller
